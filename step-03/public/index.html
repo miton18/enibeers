@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Enibeers</title>
+  </head>
+  <body>
+    <h1>Liste des bières</h1>
+    <ul id="beers"></ul>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        if(!self.fetch)
+          return alert("Your browser doesn't support needed function: fetch")
+
+        fetch('http://127.0.0.1:8080/beers')
+        .then(res => {
+          if (res.status != 200)
+            throw 'not 200 from server'
+          return res.json()
+        })
+        .then(beers => {
+          if (!Array.isArray(beers))
+            return console.error('You must return an Array of beer', typeof beers)
+
+          let container = document.querySelector('#beers')
+          beers.forEach(beer => {
+            let beerElement = document.createElement('li')
+
+            beerElement.innerHTML = JSON.stringify(beer)
+
+            // Change the display of the beers
+
+            container.appendChild(beerElement)
+          })
+        })
+        .catch(err => {
+          console.error('Failed to get your beers', err)
+        })
+      })
+    </script>
+    </body>
+</html>

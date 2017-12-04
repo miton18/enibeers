@@ -1,0 +1,16 @@
+{
+  "name": "enibeers",
+  "version": "0.0.1",
+  "description": "An awesome beer manager at ENIB school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "students",
+    "beers",
+    "hangover"
+  ],
+  "author": "Rémi Collignon <remi+enib@collignon-ducret.fr>",
+  "license": "MIT"
+}

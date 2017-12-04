@@ -1,0 +1,24 @@
+{
+  "name": "enibeers",
+  "version": "0.0.1",
+  "description": "An awesome beer manager at ENIB school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "students",
+    "beers",
+    "hangover"
+  ],
+  "author": "Rémi Collignon <remi+enib@collignon-ducret.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "morgan": "^1.9.0",
+    "prom-client": "^10.2.2",
+    "winston": "^2.4.0",
+    "winston-mongodb": "^3.0.1"
+  }
+}

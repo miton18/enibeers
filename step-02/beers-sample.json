@@ -1,0 +1,66 @@
+[{
+  "id": "AffligemBlond",
+  "alcohol": 6.8,
+  "name": "Affligem Blond",
+  "description": "Affligem Blonde, the classic clear blonde abbey ale, with a gentle roundness and 6.8% alcohol. Low on bitterness, it is eminently drinkable."
+}, {
+  "id": "AffligemDubbel",
+  "alcohol": 6.8,
+  "name": "Affligem Dubbel",
+  "description": "A reddish-brown abbey ale brewed with dark malts. The secondary fermentation gives a fruity aroma and a unique spicy character with a distinctive aftertaste. Secondary fermentation in the bottle."
+}, {
+  "id": "AffligemTripel",
+  "alcohol": 8.5,
+  "name": "Affligem Tripel",
+  "description": "The king of the abbey beers. It is amber-gold and pours with a deep head and original aroma, delivering a complex, full bodied flavour. Pure enjoyment! Secondary fermentation in the bottle."
+}, {
+  "id": "TrappistesRochefort6",
+  "alcohol": 7.5,
+  "name": "Rochefort 6",
+  "description": "Trappistes Rochefort 6 Belgian Beer."
+}, {
+  "id": "TrappistesRochefort8",
+  "alcohol": 9.2,
+  "name": "Rochefort 8",
+  "description": "A dry but rich flavoured beer with complex fruity and spicy flavours."
+}, {
+  "id": "TrappistesRochefort10",
+  "alcohol": 11.3,
+  "name": "Rochefort 10",
+  "description": "The top product from the Rochefort Trappist brewery. Dark colour, full and very impressive taste. Strong plum, raisin, and black currant palate, with ascending notes of vinousness and other complexities."
+}, {
+  "id": "StBernardusPater6",
+  "alcohol": 6.7,
+  "name": "St Bernardus Pater 6",
+  "description": "This name became a reference. This beer is mostly pointed out with its product name: a Paterke. This Paterke is a dark, chestnut coloured beer with a high fermentation (6.7%) and a full taste"
+}, {
+  "id": "StBernardusTripel",
+  "alcohol": 8,
+  "name": "St Bernardus Tripel",
+  "description": "This beer, with high fermentation, has a pale amber colour and a flowery, fruity taste with a harmonious balance between sweet and sour. This beer has a thick and vivid froth and strikes its balanced taste with a delicate bitterness."
+}, {
+  "id": "StBernardusAbt12",
+  "alcohol": 10.5,
+  "name": "St Bernardus Abt 12",
+  "description": "The top product from the Rochefort Trappist brewery. Dark colour, full and very impressive taste. Strong plum, raisin, and black currant palate, with ascending notes of vinousness and other complexities."
+}, {
+  "id": "ChimayRed",
+  "alcohol": 7,
+  "name": "Chimay Rouge",
+  "description": "This Trappist beer possesses a beautiful coppery colour that makes it particularly attractive. Topped with a creamy head, it gives off a slight fruity apricot smell from the fermentation. The aroma felt in the mouth is a balance confirming the fruit nuances revealed to the sense of smell. This traditional Belgian beer is best savoured at cellar temperature "
+}, {
+  "id": "ChimayTriple",
+  "alcohol": 10.5,
+  "name": "Chimay Tripel",
+  "description": "Chimay Triple, with its typical golden colour, its slightly hazy appearance and its fine head is especially characterised by its aroma which results from an agreeable combination of fresh hops and yeast. The beers flavour, as sensed in the mouth, comes from the smell of hops: above all it is the fruity notes of muscat and raisins that give this beer a particularly attractive aroma. The aroma complements the touch of bitterness. There is no acidity, but an after-bitterness which melts in the mouth. This top fermented Trappist beer, refermented in the bottle, is not pasteurised."
+}, {
+  "id": "Chouffe",
+  "alcohol": 8,
+  "name": "La Chouffe",
+  "description": "La chouffe est une belgian Pale Ale blonde non filtrée et refermentée. Derrière une robe couleur or, on découvre avec enchantement un bouquet aromatique à la fois fruitée et épicé. Sur le palais, on retrouve les notes épicées déjà présente au nez avec des touches de coriandre. Les houblons apportent une agréable amertume en fin de bouche. Cette bière agréablement fruitée et épicée se fera la compagne idéale d’un poisson blanc ou d’une volaille. N’hésitez pas non plus à l’associer à un fromage à pâte molle."
+}, {
+  "id": "PaixDieu",
+  "alcohol": 10,
+  "name": "Paix Dieu",
+  "description": "Cette triple artisanale de tradition donne un résultat plein de caractère avec des ingrédients sélectionnés avec soin auprès des producteurs locaux. Trouble et dorée arborant une belle mousse crémeuse, généreuse et consistante, la Paix Dieu révèle des arômes complexes, fruités et épicés de houblon, de malt, de levure et de vanille. En bouche, elle dévoile des saveurs douces et houblonnées, avec des notes de fruits, de levure, de coriandre et d'épices. Cette Belgian Pale Ale dispose d'une faible carbonatation, d'un corps moyen et d'une texture huileuse, pour une longue et fine amertume accompagnée d'une légère pointe de houblon."
+}]
